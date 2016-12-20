@@ -3,7 +3,7 @@ language: php
 notifications:
   email:
   recipients:
-    - me@andreasderijcke.be
+    - git@andreasderijcke.be
   on_success: change
   on_failure: always
 
