@@ -7,10 +7,10 @@ branches:
 
 notifications:
   email:
-  recipients:
-    - git@andreasderijcke.be
-  on_success: change
-  on_failure: always
+    recipients:
+      - git@andreasderijcke.be
+    on_success: change
+    on_failure: always
 
 php:
   - 5.6
